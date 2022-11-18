@@ -9,7 +9,7 @@ namespace WheelOfFortune.Utils.SpinValues
     /// <summary>
     /// Wheel class that is the wheel object, this will hold on wheel values.
     /// </summary>
-    public class Wheel
+    public static class Wheel
     {
         private static readonly SpinValue[] WheelMoney = new SpinValue[]
             {

@@ -12,8 +12,5 @@ namespace WheelOfFortune.Utils
     /// </summary>
     public static class WheelSpinController
     {
-
-        private static readonly int[] WheelMoney = new int[] {650,500,700,500,600,550,1000000,600,0,650,950,}
-
     }
 }
